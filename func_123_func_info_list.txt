@@ -1,0 +1,3 @@
+func1    30  100  data/func1.txt
+func2    40  100  data/func2.txt
+func3    30  100  data/func3.txt
